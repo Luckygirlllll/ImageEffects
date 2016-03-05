@@ -15,7 +15,7 @@ package com.example.iryna.imageeffects;
     import android.widget.ImageView;
 
     public class MainActivity extends ActionBarActivity {
-
+        //declare imageView, drawable and Bitmap
         ImageView buckysImageView;
         Drawable buckysFace;
         Bitmap bitmapImage;
